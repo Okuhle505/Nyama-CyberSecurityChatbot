@@ -41,7 +41,7 @@ public class Chatbot
         }
         else if (input.Contains("password"))
         {
-            Console.WriteLine("Use strong passwords and don't share them");
+            Console.WriteLine("Use strong passwords and don't share them. Never reuse passwords across multiple accounts.");
         }
         else if (input.Contains("What is phishing?"))
         {
